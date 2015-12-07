@@ -1,2 +1,2 @@
 # adventofcode
-Brainfuck++ solutions for http://adventofcode.com
+My perspective in solving adventofcode 2015
